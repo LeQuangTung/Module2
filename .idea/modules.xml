@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IntroductionToJava/IntroductionToJava.iml" filepath="$PROJECT_DIR$/IntroductionToJava/IntroductionToJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Module 2 Codegym.iml" filepath="$PROJECT_DIR$/.idea/Module 2 Codegym.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractclass_interface/abstractclass_interface.iml" filepath="$PROJECT_DIR$/abstractclass_interface/abstractclass_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessmodifier/accessmodifier.iml" filepath="$PROJECT_DIR$/accessmodifier/accessmodifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayandmethod/arrayandmethod.iml" filepath="$PROJECT_DIR$/arrayandmethod/arrayandmethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automatedTesting_TDD/automatedTesting_TDD.iml" filepath="$PROJECT_DIR$/automatedTesting_TDD/automatedTesting_TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cleancoding_refactoring/cleancoding_refactoring.iml" filepath="$PROJECT_DIR$/cleancoding_refactoring/cleancoding_refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug/debug.iml" filepath="$PROJECT_DIR$/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacollectionframework/javacollectionframework.iml" filepath="$PROJECT_DIR$/javacollectionframework/javacollectionframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopinJava/loopinJava.iml" filepath="$PROJECT_DIR$/loopinJava/loopinJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minitest/minitest.iml" filepath="$PROJECT_DIR$/minitest/minitest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchAlgorithm/searchAlgorithm.iml" filepath="$PROJECT_DIR$/searchAlgorithm/searchAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortAlgorithm/sortAlgorithm.iml" filepath="$PROJECT_DIR$/sortAlgorithm/sortAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_queue/stack_queue.iml" filepath="$PROJECT_DIR$/stack_queue/stack_queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textFile/textFile.iml" filepath="$PROJECT_DIR$/textFile/textFile.iml" />
+    </modules>
+  </component>
+</project>
